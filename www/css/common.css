@@ -1,0 +1,18 @@
+body {
+	font-family: arial;
+	font-size: 14px;
+}
+
+input, textarea {
+	border-radius: 3px;
+	border: 1px solid #ccc;
+}
+
+td input {
+	height: 25px;
+	padding: 0 10px;
+} 
+
+.err_input {
+	border: 1px solid red;
+}
